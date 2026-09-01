@@ -1,0 +1,11 @@
+email,password,validity
+admin@test.com,admin123,valid
+user1@test.com,password123,invalid
+karthik@gmail.com,test123,invalid
+john.doe@gmail.com,john@123,valid
+alice@yahoo.com,alice123,invalid
+rahul@gmail.com,rahul@2025,valid
+demo@test.com,demo123,invalid
+tester@gmail.com,tester@123,valid
+guest@test.com,guest123,invalid
+automation@gmail.com,playwright@123,valid
